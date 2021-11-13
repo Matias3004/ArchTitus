@@ -25,6 +25,7 @@ ln -s "$HOME/zsh/.zshrc" $HOME/.zshrc
 PKGS=(
 'autojump'
 'awesome-terminal-fonts'
+'discord' # Discord
 'dxvk-bin' # DXVK DirectX to Vulcan
 'github-desktop-bin' # Github Desktop sync
 'google-chrome' # Google Chrome browser
@@ -41,8 +42,12 @@ PKGS=(
 'papirus-icon-theme'
 'plasma-pa'
 'ocs-url' # install packages from websites
+'reaper-bin' # Reaper DAW
+'sws' # SWS extensions for Reaper
 'sddm-nordic-theme-git'
 'snapper-gui-git'
+'spotify' # Spotify client
+'teams' # Microsoft Teams client
 'ttf-droid'
 'ttf-hack'
 'ttf-meslo' # Nerdfont package
