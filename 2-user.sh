@@ -25,9 +25,9 @@ ln -s "$HOME/zsh/.zshrc" $HOME/.zshrc
 PKGS=(
 'autojump'
 'awesome-terminal-fonts'
-'brave-bin' # Brave Browser
 'dxvk-bin' # DXVK DirectX to Vulcan
 'github-desktop-bin' # Github Desktop sync
+'google-chrome' # Google Chrome browser
 'lightly-git'
 'lightlyshaders-git'
 'mangohud' # Gaming FPS Counter
